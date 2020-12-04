@@ -13,7 +13,7 @@ import java.util.Scanner;
  * Nama      : Garry Prang
  * NIM       : 10116147
  * Kelas     : PBO-2
- * Deskripsi : Program penarikan uang (UTS No. 1).
+ * Deskripsi : Program penarikan uang (UTS No. 2).
  */
 public class UTSPBO210116147GarryPrangNo2 {
 
@@ -25,7 +25,7 @@ public class UTSPBO210116147GarryPrangNo2 {
         int saldo, jumlah;
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("========== PROGRAM PENARIKAN UANG ==========\n");
+        System.out.println("========== PROGRAM PENARIKAN UANG ==========");
         System.out.print("Masukkan saldo awal\t\t: ");
         saldo = scanner.nextInt();
         System.out.print("Jumlah uang yang ingin diambil\t: ");

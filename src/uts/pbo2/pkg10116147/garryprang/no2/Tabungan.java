@@ -11,7 +11,7 @@ package uts.pbo2.pkg10116147.garryprang.no2;
  * Nama      : Garry Prang
  * NIM       : 10116147
  * Kelas     : PBO-2
- * Deskripsi : Program penarikan uang (UTS No. 1).
+ * Deskripsi : Program penarikan uang (UTS No. 2).
  */
 public class Tabungan {
     private final int saldo;
